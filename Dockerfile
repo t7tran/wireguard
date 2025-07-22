@@ -1,4 +1,4 @@
-FROM linuxserver/wireguard:1.0.20210914-r4-ls60
+FROM linuxserver/wireguard:1.0.20210914-r4-ls79
 
 ENV \
     # https://github.com/msoap/shell2http/releases
